@@ -1,3 +1,3 @@
-Cool Cube Dynamic Animation
+Cool Cube Dynamic Animation.
 
 ![Alt text](/images/cube.JPG?raw=true 'cube')
